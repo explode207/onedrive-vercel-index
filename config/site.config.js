@@ -47,7 +47,6 @@ module.exports = {
     "/old/黑苹果",
     "/Expand learning",
     "/photo",
-   "old/电子系实验室资料/电梯/硬件相关文件/源文件",
   ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
