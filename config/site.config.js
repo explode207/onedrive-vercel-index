@@ -46,6 +46,7 @@ module.exports = {
     "/old/danne",
     "/old/黑苹果",
     "/Expand learning",
+    "/Documents",
     "/photo",
   ],
 
